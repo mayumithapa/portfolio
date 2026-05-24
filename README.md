@@ -8,7 +8,7 @@
 
 **Full-Stack Software Engineer** specializing in scalable enterprise applications, event-driven architecture, and high-performance systems.
 
-[📧 Email](mailto:mayumi1509thapa@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/mayumithapa) • [🧑‍💻 LeetCode](https://leetcode.com/mayumithapa) • [📱 +91 7024160858](tel:+917024160858)
+[📧 Email](mailto:mayumi1509thapa@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/mayumithapa) • [🧑‍💻 LeetCode](https://leetcode.com/u/mayumi15/) • [📱 +91 7024160858](tel:+917024160858)
 
 </div>
 
@@ -235,7 +235,7 @@ I'm interested in:
 - 💼 **LinkedIn:** [linkedin.com/in/mayumithapa](https://linkedin.com/in/mayumithapa)
 - 📧 **Email:** mayumi1509thapa@gmail.com
 - 📱 **Phone:** +91 7024160858
-- 🧑‍💻 **LeetCode:** [LeetCode Profile](https://leetcode.com/mayumithapa)
+- 🧑‍💻 **LeetCode:** [LeetCode Profile](https://leetcode.com/u/mayumi15/)
 - 🐙 **GitHub:** [github.com/mayumithapa](https://github.com/mayumithapa)
 
 ---
